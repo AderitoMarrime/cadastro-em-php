@@ -8,19 +8,19 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Document</title>
+    <link rel="stylesheet" href="style.css">
 </head>
 <body>
     <form action="index.php" method="post">
         <h1>Cadastro</h1>
-        <div class="primeira">
+        <div>
             <label for="usuario">Usuario</label>
             <input type="text" name="usuario" id="usuario">
             <label for="senha">Senha</label>
             <input type="password" name="senha" id="senha">
-        </div>
-        <div class="segunda">
             <input type="submit" value="Cadastrar" name="cadastrar">
         </div>
+            
     </form>
 </body>
 </html>
