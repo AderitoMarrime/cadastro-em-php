@@ -1,2 +1,2 @@
 # cadastro-em-php
- Um formuulario para poder cadastrar usuarios na base de dados
+ Um formulario para poder cadastrar usuarios na base de dados.
